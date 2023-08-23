@@ -22,8 +22,8 @@
     "qwik": "qwik"
   },
   "dependencies": {
-    "@builder.io/qwik": "1.2.7",
-    "@builder.io/qwik-city": "1.2.7",
+    "@builder.io/qwik": "1.2.8",
+    "@builder.io/qwik-city": "1.2.8",
     "@fontsource/inter": "5.0.8",
     "@unpic/qwik": "0.0.25",
     "gray-matter": "4.0.3",
@@ -40,7 +40,7 @@
     "@typescript-eslint/parser": "6.4.1",
     "autoprefixer": "10.4.15",
     "eslint": "8.47.0",
-    "eslint-plugin-qwik": "1.2.7",
+    "eslint-plugin-qwik": "1.2.8",
     "postcss": "8.4.28",
     "prettier": "3.0.2",
     "subfont": "7.1.1",
