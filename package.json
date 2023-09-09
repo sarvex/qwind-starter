@@ -47,7 +47,7 @@
     "tailwindcss": "3.3.3",
     "typescript": "5.2.2",
     "vite": "4.4.9",
-    "vite-tsconfig-paths": "4.2.0"
+    "vite-tsconfig-paths": "4.2.1"
   },
   "engines": {
     "node": ">=15.0.0"
