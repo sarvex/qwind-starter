@@ -27,7 +27,7 @@
     "@fontsource/inter": "5.0.8",
     "@unpic/qwik": "0.0.26",
     "gray-matter": "4.0.3",
-    "markdown-it": "13.0.1",
+    "markdown-it": "13.0.2",
     "node-fetch": "3.3.2"
   },
   "devDependencies": {
