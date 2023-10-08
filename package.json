@@ -24,7 +24,7 @@
   "dependencies": {
     "@builder.io/qwik": "1.2.13",
     "@builder.io/qwik-city": "1.2.13",
-    "@fontsource/inter": "5.0.12",
+    "@fontsource/inter": "5.0.13",
     "@unpic/qwik": "0.0.27",
     "gray-matter": "4.0.3",
     "markdown-it": "13.0.2",
