@@ -31,7 +31,7 @@
     "node-fetch": "3.3.2"
   },
   "devDependencies": {
-    "@divriots/jampack": "0.23.3",
+    "@divriots/jampack": "0.23.4",
     "@tailwindcss/typography": "0.5.12",
     "@types/eslint": "8.56.6",
     "@types/markdown-it": "13.0.7",
